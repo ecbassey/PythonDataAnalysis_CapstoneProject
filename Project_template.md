@@ -21,7 +21,7 @@ This project aims to uncover how the COVID-19 pandemic impacted airline travel b
 
 
 ### How would a business or a community (for Social Impact Projects) benefit from your work?
-This project helps airlines and airports make better operational decisions by showing how travel demand changed during and after COVID-19. It also helps policymakers and communities understand the broader impact of disruptions on mobility and the economy, enabling better planning for future crises.
+This project helps airlines and airports make better operational decisions by showing how travel demand changed before, during and after COVID-19. It also helps policymakers and communities understand the broader impact of disruptions on mobility and the economy, enabling better planning for future crises.
 #### Who benefits?
 - Businesses (airlines, airports)
 - Community (travelers, policymakers)
