@@ -1,4 +1,4 @@
-# Impact of the COVID-19 Pandemic on Global Air Travel
+# Impact of the COVID-19 Pandemic on U.S. Air Travel
 
 
 ### Problem statement:
