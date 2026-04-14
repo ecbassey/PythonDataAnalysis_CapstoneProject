@@ -2,7 +2,7 @@
 
 
 ### Problem statement:
-The airline industry experienced unprecedented disruption during the COVID-19 pandemic, but the extent, patterns, and recovery of this impact are not clearly quantified. This project aims to analyze and measure how airline travel was affected, and how has the industry recovered over time.
+The airline industry experienced unprecedented disruption during the COVID-19 pandemic, but the extent, patterns, and recovery of this impact are not clearly quantified. This project aims to analyze and measure how airline travel was affected, and assess the industry’s long-term recovery trends.
 
 
 ### Tools/Skills use:
