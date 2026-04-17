@@ -34,3 +34,6 @@ This project helps airlines and airports make better operational decisions by sh
 #### Why does it matter?
 - Real-world impact
 - Future readiness
+
+
+### Website: https://light-truck-fatality-analysis.my.canva.site/impact-of-covid-19/
