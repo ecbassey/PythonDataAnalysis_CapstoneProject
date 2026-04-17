@@ -24,7 +24,7 @@ This project aims to uncover how the COVID-19 pandemic impacted airline travel b
 This project helps airlines and airports make better operational decisions by showing how travel demand changed before, during and after COVID-19. It also helps policymakers and communities understand the broader impact of disruptions on mobility and the economy, enabling better planning for future crises.
 #### Who benefits?
 - Businesses (airlines, airports)
-- Community (travelers, policymakers)
+- Community (policymakers)
 
 #### How do they benefit?
 - Better planning
